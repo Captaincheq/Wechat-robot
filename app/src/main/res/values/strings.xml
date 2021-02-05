@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KYMonitor</string>
+    <string name="accessibility_service_description">KYMonitor APP</string>
+</resources>
